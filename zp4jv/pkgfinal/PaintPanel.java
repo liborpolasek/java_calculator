@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package polasek.zp4jv.pkgfinal;
 
 import java.awt.BasicStroke;
@@ -25,10 +20,6 @@ import javax.swing.BorderFactory;
 import javax.swing.JComponent;
 import javax.swing.JTextArea;
 
-/**
- *
- * @author ribor
- */
 public class PaintPanel extends JComponent implements MouseListener, MouseMotionListener {
 
     private String actualTool;
